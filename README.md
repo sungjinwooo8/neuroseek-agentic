@@ -36,7 +36,7 @@
 
 AI Blog Search is a sophisticated Retrieval-Augmented Generation (RAG) application that enables intelligent question-answering over web documents. Built with **LangGraph** and **LangChain**, it uses an agentic workflow to retrieve, evaluate, and generate accurate responses from indexed blog content.
 
-> 🌐 **Try it now**: [Live Demo](https://pramodh7860-blog-search-app-qycudb.streamlit.app/)
+> 🌐 **Try it now**: [Live Demo](https://sungjinwooo8-neuroseek-agentic-app-rvyxvc.streamlit.app/)
 
 ### Key Highlights
 
@@ -185,7 +185,7 @@ python -c "import streamlit; import langchain; print('Installation successful!')
 
 ### Option 1: Use the Live Demo
 
-🌐 **[Access the deployed application](https://pramodh7860-blog-search-app-qycudb.streamlit.app/)** - No installation required!
+🌐 **[Access the deployed application](https://sungjinwooo8-neuroseek-agentic-app-rvyxvc.streamlit.app/)** - No installation required!
 
 Simply visit the link above, enter your Gemini API key, and start using the application.
 
@@ -195,7 +195,7 @@ Simply visit the link above, enter your Gemini API key, and start using the appl
 streamlit run app.py
 ```
 
-The application will open in your default web browser at `http://localhost:8501`
+The application will open in your default web browser at your localhost
 
 ### Step-by-Step Guide
 
